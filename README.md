@@ -2,13 +2,14 @@
 A simple extension that automates searches I commonly used to check if a car was worth buying.
 
 Current searches:
+
 ` How many miles will a XXX last? `
 
 ` CarComplaints.com XXX `
 
 ## To Install
 
-Download the file and then add it to your browsers extensions.
+Download the file and then add it to your browser's extensions.
 You must have Developer Mode enabled on your browser. Please see [this stack echange answer](https://superuser.com/questions/247651/how-does-one-install-an-extension-for-chrome-browser-from-the-local-file-system) for a guide on how to load an upacked extension. 
 Alternatively [Look up "how to install unpacked extension"](https://www.google.com/search?q=how%20to%20install%20unpacked%20extension) for your favorite browser.
 
