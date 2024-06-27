@@ -7,6 +7,8 @@ Current searches:
 
 ` CarComplaints.com XXX `
 
+` Kelly Blue Book XXX price, reviews `
+
 ## To Install
 
 Download the file and then add it to your browser's extensions.
@@ -22,5 +24,6 @@ This will query Bing with the above searches and open 2 tabs with the results.
 
 
 
-https://github.com/Philip-Clark/reliablityChecker/assets/56705400/1330fcfa-0934-4f04-ad8b-0d39ff947efc
+
+https://github.com/Philip-Clark/reliablityChecker/assets/56705400/60eb024d-8176-450a-b8a5-42d6f01c034b
 
